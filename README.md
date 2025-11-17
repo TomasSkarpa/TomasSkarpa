@@ -4,7 +4,7 @@
   Experienced in building scalable online retail systems and enhancing user experience.
 </p>
 <p align="center">
-  In my free time, I build apps just for fun — from small educational game-style projects to tools that make everyday life easier. 😄
+  In my free time, I build apps just for fun — from small educational game projects to tools that make everyday life easier.
 </p>
 
 | | |
