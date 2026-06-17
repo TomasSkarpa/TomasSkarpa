@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, my name is Tomáš Škarpa</h1>
 <p align="center">
-  Software Engineer specializing in developing and improving e-commerce platforms.<br/>
+  Technical Leader specializing in developing and improving e-commerce platforms.<br/>
   Experienced in building scalable online retail systems and enhancing user experience.
 </p>
 <p align="center">
